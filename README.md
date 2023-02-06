@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skatellite
-- 👀 I’m interested in Space Robotics
+- 👀 I’m interested in Space Robotics, Intelligent Systems, Autonomous Navigation and Obstacle Avoidance.
 - 🌱 I’m currently pursuing a MS in Aerospace Engineering
 
 <!---
